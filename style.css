@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    background-color: rgb(18, 60, 46);
+}
+#myH1 {
+    margin-bottom: 20px;
+    color: #fff;
+    
+    
+}
+
+
+form{
+    margin-bottom: 23px;
+    padding-top: 20px;
+}
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    color: #030303;
+    background-color: rgb(91, 248, 29);
+   border-radius: 2vh;
+}
